@@ -5,7 +5,7 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
 </h3>
 
 <p align="center">
-💻 Programming • 🌐 Web Development • 🧠 Problem Solving 
+💻 Programming • 🌐 Software Development • 🧠 Problem Solving 
 </p>
 
 ---

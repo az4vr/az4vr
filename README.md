@@ -20,6 +20,16 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
 
 ---
 
+## 🐍 My GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/az4vr/az4vr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/az4vr/az4vr/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/az4vr/az4vr/output/github-snake.svg" />
+</picture>
+
+---
+
 ## 🌐 Social
 
 <p>
@@ -59,17 +69,6 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### 🌐 Networking & IT
-
-- 🛠️ IT Support
-- 💻 Windows Systems
-- 🌐 Networking Fundamentals
-- 🔗 TCP/IP
-- 📡 OSI Model
-- 🐧 Linux Fundamentals
-- 🔧 Hardware & Software Troubleshooting
-
----
 
 ## 🛠️ Technologies & Tools
 
@@ -77,62 +76,16 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Projects
-
-### 🚦 Traffic Department Management System
-
-💻 A desktop application developed using **C# and Windows Forms** to manage traffic department operations.
-
-**Technologies:**
-
-`C#` `Windows Forms` `SQL Server`
-
----
-
-### 📚 BookStore — Admin & Security
-
-🌐 An **ASP.NET** application for bookstore management with authentication, administration, security, and database functionality.
-
-**Technologies:**
-
-`C#` `ASP.NET` `SQL Server` `HTML` `CSS` `Bootstrap`
-
----
-
-## 📚 Currently Learning
-
-- 🧠 Advanced C++
-- 🧩 Object-Oriented Programming
-- 🔗 Data Structures & Algorithms
-- 🏗️ Software Engineering Fundamentals
-- 🌐 Computer Networking
-- 🐧 Linux
-- 🗄️ Database Design
-- 💻 Problem Solving
-
----
-
-## 🐍 My GitHub Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/az4vr/az4vr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/az4vr/az4vr/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/az4vr/az4vr/output/github-snake.svg" />
-</picture>
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=az4vr&show_icons=true&theme=tokyonight" />
 </p>
-
 
 ---
 

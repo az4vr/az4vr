@@ -17,7 +17,7 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
 - 🧠 C++ • C# • OOP • ASP.NET • SQL
 - 🌐 Interested in Software Engineering & Web Development
 - 🚀 Enjoy building projects and solving problems
-- 
+  
 ---
 
 ## 🌐 Social
@@ -31,6 +31,7 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
   🔗 <strong>GitHub:</strong> 
   <a href="https://github.com/az4vr">github.com/az4vr</a>
 </p>
+
 
 ---
 

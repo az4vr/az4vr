@@ -16,7 +16,7 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
 
 💻 I enjoy building practical projects, solving problems, and understanding how things work behind the scenes.
 
-🚀 Currently focusing on **C++, C#, Object-Oriented Programming, ASP.NET, SQL, and Computer Science fundamentals**.
+🚀 Currently focusing on **C++, C#, Object-Oriented Programming, ASP.NET, and SQL;
 
 ---
 

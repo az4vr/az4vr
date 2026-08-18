@@ -20,16 +20,6 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
 
 ---
 
-## 🐍 My GitHub Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/az4vr/az4vr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/az4vr/az4vr/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/az4vr/az4vr/output/github-snake.svg" />
-</picture>
-
----
-
 ## 🌐 Social
 
 <p>
@@ -41,6 +31,16 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
   🔗 <strong>GitHub:</strong> 
   <a href="https://github.com/az4vr">github.com/az4vr</a>
 </p>
+
+---
+
+## 🐍 My GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/az4vr/az4vr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/az4vr/az4vr/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/az4vr/az4vr/output/github-snake.svg" />
+</picture>
 
 ---
 

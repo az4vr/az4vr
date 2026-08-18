@@ -5,7 +5,7 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
 </h3>
 
 <p align="center">
-💻 Programming • 🌐 Web Development • 🧠 Problem Solving • 🚀 Continuous Learning
+💻 Programming • 🌐 Web Development • 🧠 Problem Solving 
 </p>
 
 ---
@@ -17,8 +17,6 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
 💻 I enjoy building practical projects, solving problems, and understanding how things work behind the scenes.
 
 🚀 Currently focusing on **C++, C#, Object-Oriented Programming, ASP.NET, SQL, and Computer Science fundamentals**.
-
-📚 Always learning new technologies, building projects, and improving my technical skills.
 
 ---
 
@@ -43,8 +41,6 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### 🌐 Web Development
@@ -80,10 +76,8 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
@@ -123,17 +117,6 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
 
 ---
 
-## 🚀 Current Focus
-
-<p align="center">
-  <strong>
-    Becoming a stronger software developer by learning the fundamentals,
-    building real-world projects, and continuously improving my problem-solving skills.
-  </strong>
-</p>
-
----
-
 ## 🐍 My GitHub Contributions
 
 <picture>
@@ -150,13 +133,6 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
   <img src="https://github-readme-stats-fast.vercel.app/api?username=az4vr&show_icons=true&theme=tokyonight" />
 </p>
 
----
-
-## ⚡ Fun Fact
-
-<p align="center">
-  I love learning new things, building cool projects, and turning ideas into something real. 🚀
-</p>
 
 ---
 

@@ -10,14 +10,14 @@ Computer and Information Technology Graduate | Aspiring Software Engineer
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-🎓 Computer and Information Technology graduate passionate about **software development, programming, and technology**.
-
-💻 I enjoy building practical projects, solving problems, and understanding how things work behind the scenes.
-
-🚀 Currently focusing on **C++, C#, Object-Oriented Programming, ASP.NET, and SQL.
-
+- 🎓 Computer & IT Graduate
+- 💻 Passionate about Software Development
+- 🧠 C++ • C# • OOP • ASP.NET • SQL
+- 🌐 Interested in Software Engineering & Web Development
+- 🚀 Enjoy building projects and solving problems
+- 
 ---
 
 ## 🌐 Social
